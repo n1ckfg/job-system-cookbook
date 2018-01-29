@@ -6,6 +6,9 @@ This is a repo of examples i've written to learn how to use the C# job system to
 
 
 ## Examples
+
+Note: examples in this repo use `LateUpdate()` as an easy way to handle completing jobs later than we schedule them, but in real code you might want to schedule the jobs early in `Update` so you can use the result later in the same `Update`. 
+
 ### [Accelerate 10000 Cubes](Assets/Scripts/AccelerationParallelFor.cs)
 
 Demonstrates a simple dependency setup & working with Transforms in jobs.
