@@ -1,7 +1,7 @@
 C# Job System Cookbook
 =======================
 
-This is a repo of examples i've written to learn how to use the C# job system to write systems at scale using the new C# job system, here for reference and sharing.  Each example script has a corresponding scene where it's set up.
+This is a repo of examples i've written to learn how to use the C# job system to write systems at scale, here for reference and sharing.  Each example script has a corresponding scene where it's set up.
 
 
 
