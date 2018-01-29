@@ -11,7 +11,7 @@ Note: examples in this repo use `LateUpdate()` as an easy way to handle completi
 
 ### [Accelerate 10000 Cubes](Assets/Scripts/AccelerationParallelFor.cs)
 
-Demonstrates a simple dependency setup & working with Transforms in jobs.
+Demonstrates a simple 2-job dependency setup.
 
 ### [Point & Bounds Intersection Checks](Assets/Scripts/CheckBoundsParallelFor.cs)
 
